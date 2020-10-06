@@ -1,2 +1,2 @@
 # Portfolio_Website
-This is a Portfolio website & for contribution in hacktoberfest.
+This is a Portfolio website made for contribution in hacktoberfest.
